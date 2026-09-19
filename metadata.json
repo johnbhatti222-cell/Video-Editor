@@ -1,0 +1,6 @@
+{
+  "name": "Image to Video Animator Studio",
+  "description": "Convert static images into animated cinematic videos with Ken Burns motion, 3D parallax, transition effects, dynamic particle overlays, audio soundtrack, and high-definition 1080p/4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
